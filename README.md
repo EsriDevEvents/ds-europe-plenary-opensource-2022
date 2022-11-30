@@ -12,7 +12,7 @@ This is a demostration of a post office asset locator. The application starts ou
 
 ## Deploy the App to your Netlify
 This button allows you to create a copy of the application to your Github account and a deployed version to your Netlify account. <br/>
-<a target="_blank" href="https://app.netlify.com/start/deploy?repository=https://github.com/cyatteau/Deployed_Demo2_Euro22_DevSummit"><img src="https://www.netlify.com/img/deploy/button.svg"></img></a>
+<a target="_blank" href="https://app.netlify.com/start/deploy?repository=https://github.com/cyatteau/Deployed_Demo1_Euro22_DevSummit"><img src="https://www.netlify.com/img/deploy/button.svg"></img></a>
 
 ## Required Dependencies <a name="dep"></a>
 
